@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Strateji Geliştirme_ Prod</name>
+        <order/>
+        <roles>x_287991_strateji.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-18 10:53:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0c442c8dba22300e4bd8a1848961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Strateji Geliştirme_ Prod</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Strateji Geliştirme_ Prod" source="x_287991_strateji">d8540648dba22300e4bd8a1848961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Strateji Geliştirme_ Prod">d8540648dba22300e4bd8a1848961921</sys_scope>
+        <sys_update_name>sys_ui_application_b0c442c8dba22300e4bd8a1848961980</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-18 10:53:11</sys_updated_on>
+    </sys_ui_application>
+</record_update>

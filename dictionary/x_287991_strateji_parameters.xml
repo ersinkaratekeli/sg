@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Parameters" max_length="40" name="x_287991_strateji_parameters" type="collection">
+        <element label="Faaliyet" max_length="32" name="faaliyet" reference="x_287991_strateji_faaliyet" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Parameter" max_length="100" name="parameter" type="string"/>
+        <index name="index">
+            <element name="faaliyet"/>
+        </index>
+    </element>
+</database>

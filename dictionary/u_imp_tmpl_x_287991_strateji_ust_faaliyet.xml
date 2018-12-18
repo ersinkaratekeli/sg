@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 287991 Strateji Ust Faaliyet" max_length="40" name="u_imp_tmpl_x_287991_strateji_ust_faaliyet" type="collection">
+        <element attributes="import_attribute_name=Stratejik Hedef,edge_encryption_enabled=true" label="Stratejik Hedef" max_length="32" name="u_stratejik_hedef" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Üst Faaliyet" max_length="40" name="u_üst_faaliyet" type="string"/>
+    </element>
+</database>

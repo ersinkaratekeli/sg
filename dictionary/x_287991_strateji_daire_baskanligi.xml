@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Daire Başkanlığı" max_length="40" name="x_287991_strateji_daire_baskanligi" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Daire Başkanlığı" max_length="1000" name="daire_ba_kanl" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Stratejik Hedef" max_length="40" name="x_287991_strateji_stratejik_hedef" type="collection">
+        <element label="Kodu" max_length="40" name="kodu" type="string"/>
+        <element label="Stratejik Amac" max_length="32" name="stratejik_amac" reference="x_287991_strateji_stratejik_amac" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Stratejik Hedef" max_length="1000" name="stratejik_hedef" type="string"/>
+        <index name="index">
+            <element name="stratejik_amac"/>
+        </index>
+    </element>
+</database>

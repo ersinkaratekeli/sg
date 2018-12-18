@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="parameter" label="Parameter" language="en" table="x_287991_strateji_parameters">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>parameter</element>
+            <help/>
+            <hint/>
+            <label>Parameter</label>
+            <language>en</language>
+            <name>x_287991_strateji_parameters</name>
+            <plural>Parameters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-18 11:21:29</sys_created_on>
+            <sys_id>ef3bc240dbe22300e4bd8a1848961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parameter</sys_name>
+            <sys_package display_value="Strateji Geliştirme_ Prod" source="x_287991_strateji">d8540648dba22300e4bd8a1848961921</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Strateji Geliştirme_ Prod">d8540648dba22300e4bd8a1848961921</sys_scope>
+            <sys_update_name>sys_documentation_x_287991_strateji_parameters_parameter_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-18 11:21:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

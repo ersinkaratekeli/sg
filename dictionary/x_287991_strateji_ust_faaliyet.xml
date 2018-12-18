@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Üst Faaliyet" max_length="40" name="x_287991_strateji_ust_faaliyet" type="collection">
+        <element label="Stratejik Hedef" max_length="32" name="stratejik_hedef" reference="x_287991_strateji_stratejik_hedef" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Üst Faaliyet" max_length="1000" name="st_faaliyet" type="string"/>
+        <index name="index">
+            <element name="stratejik_hedef"/>
+        </index>
+    </element>
+</database>

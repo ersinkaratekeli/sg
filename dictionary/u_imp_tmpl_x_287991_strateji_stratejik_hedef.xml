@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 287991 Strateji Stratejik Hedef" max_length="40" name="u_imp_tmpl_x_287991_strateji_stratejik_hedef" type="collection">
+        <element attributes="import_attribute_name=Kodu,edge_encryption_enabled=true" label="Kodu" max_length="40" name="u_kodu" type="string"/>
+        <element attributes="import_attribute_name=Stratejik Hedef,edge_encryption_enabled=true" label="Stratejik Hedef" max_length="1000" name="u_stratejik_hedef" type="string"/>
+        <element attributes="import_attribute_name=Stretejik Amac,edge_encryption_enabled=true" label="Stretejik Amac" max_length="150" name="u_stretejik_amac" type="string"/>
+    </element>
+</database>

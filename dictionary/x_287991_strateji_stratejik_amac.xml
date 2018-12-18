@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Stratejik Amac" max_length="40" name="x_287991_strateji_stratejik_amac" type="collection">
+        <element label="Ana Hizmet Alanı" max_length="32" name="ana_hizmet_alan" reference="x_287991_strateji_ana_hizmet_alani" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Kodu" max_length="40" name="kodu" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Stratejik Amac" max_length="1000" name="stratejik_amac" type="string"/>
+        <index name="index">
+            <element name="ana_hizmet_alan"/>
+        </index>
+    </element>
+</database>

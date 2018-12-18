@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ana_hizmet_alan" label="Ana Hizmet Alanı" language="en" table="x_287991_strateji_ana_hizmet_alani">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ana_hizmet_alan</element>
+            <help/>
+            <hint/>
+            <label>Ana Hizmet Alanı</label>
+            <language>en</language>
+            <name>x_287991_strateji_ana_hizmet_alani</name>
+            <plural>Ana Hizmet Alanıs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-18 10:54:27</sys_created_on>
+            <sys_id>e7054ec8dba22300e4bd8a184896196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ana Hizmet Alanı</sys_name>
+            <sys_package display_value="Strateji Geliştirme_ Prod" source="x_287991_strateji">d8540648dba22300e4bd8a1848961921</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Strateji Geliştirme_ Prod">d8540648dba22300e4bd8a1848961921</sys_scope>
+            <sys_update_name>sys_documentation_x_287991_strateji_ana_hizmet_alani_ana_hizmet_alan_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-18 10:54:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

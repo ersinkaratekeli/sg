@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Müdürlük" max_length="40" name="x_287991_strateji_mudurluk" type="collection">
+        <element label="Daire Başkanlığı" max_length="32" name="daire_ba_kanl" reference="x_287991_strateji_daire_baskanligi" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Müdürlük" max_length="1000" name="m_d_rl_k" type="string"/>
+        <index name="index">
+            <element name="daire_ba_kanl"/>
+        </index>
+    </element>
+</database>
